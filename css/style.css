@@ -1,0 +1,4 @@
+.hidden, ::selection {
+        color: white;
+        background: white;
+}
