@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.juwenalia.krakow.pl/juwekrk_red.svg" />
+<img width="20%" src="https://www.juwenalia.krakow.pl/juwekrk_red.svg" />
 </p>
 
 # Introduction
