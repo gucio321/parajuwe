@@ -7,3 +7,5 @@
 This repository contains the source code of the website created for testing screen reader.
 It consists of a simple css stylesheet and a html file with test data.
 It also presents use of image's alternative text.
+
+## [Welcome!](https://gucio321.github.io/parajuwe)
