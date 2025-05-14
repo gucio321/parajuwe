@@ -2,3 +2,8 @@
         color: white;
         background: white;
 }
+
+.show-answer, ::selection {
+        color: black;
+        background: white;
+}
